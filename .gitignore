@@ -1,0 +1,6 @@
+composer.phar
+/vendor/
+composer.lock
+.idea/
+config/_bavix.php
+cache/*
